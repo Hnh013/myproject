@@ -143,7 +143,7 @@ murmurhash==1.0.2
 mysql-connector==2.2.9
 mysqlclient==1.4.6
 navigator-updater==0.2.1
-nbconvert==5.4.0
+nbconvert==6.3.0
 nbformat==4.4.0
 netifaces==0.10.9
 networkx==2.2
